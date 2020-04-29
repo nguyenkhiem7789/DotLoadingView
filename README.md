@@ -1,5 +1,7 @@
 # DotLoadingView
 
+https://www.youtube.com/watch?v=jdaVSCMgvKo&feature=youtu.be
+
 # How to
 
 To get a Git project into your build:
