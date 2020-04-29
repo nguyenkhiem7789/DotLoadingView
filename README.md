@@ -32,7 +32,7 @@ Step 2. Add the dependency
 
 # How to use it?
 
-To use same a View:
+To use as a View:
 
 	<com.nguyen.dotloading.DotLoadingView
 		android:layout_width="match_parent"
