@@ -2,6 +2,8 @@
 
 https://www.youtube.com/watch?v=jdaVSCMgvKo&feature=youtu.be
 
+<img src="https://user-images.githubusercontent.com/18132015/80567391-438aa380-8a1f-11ea-9ddd-4076080455d0.jpg" width="300"/>
+
 # How to
 
 To get a Git project into your build:
