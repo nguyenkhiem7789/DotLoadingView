@@ -30,4 +30,25 @@ Step 2. Add the dependency
 	        implementation 'com.github.nguyenkhiem7789:DotLoadingView:0.1.0'
 	}
 
-Share this release:
+# How to use it?
+
+To use same a View:
+
+	<com.nguyen.dotloading.DotLoadingView
+		android:layout_width="match_parent"
+		android:layout_height="0dp"
+		android:layout_weight="1"
+		app:dot_color="@color/blue"
+		app:dot_distance="20dp"
+		app:dot_min_radius="4dp"
+		app:dot_max_radius="10dp"
+		app:dot_count="4"
+		/>
+		
+To show Loading Dialog: 
+
+	DotLoadingDialog.show(this)
+	Handler().postDelayed(Runnable {
+		DotLoadingDialog.dimiss()
+	}, 3000)
+	
